@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/algorithmic-trading-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/candlestick_pattern_identifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/price_trend_channels" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock_market_analysis_panda" vcs="Git" />
+  </component>
+</project>
